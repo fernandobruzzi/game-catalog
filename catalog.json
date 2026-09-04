@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dealer",
+    "name": "独角大亨 Dealer",
+    "thumbnail": "https://raw.githubusercontent.com/fernandobruzzi/game-catalog/main/thumbnails/dealer.png",
+    "repo": "fernandobruzzi/Dealer-main",
+    "branch": "main",
+    "path": "",
+    "entry": "index.html",
+    "files": ["index.html", "source.js"]
+  }
+]
